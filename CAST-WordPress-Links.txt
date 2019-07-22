@@ -1,5 +1,3 @@
-# HTML-CSS-Wordpress
- 
 1. Rahul Saxena, CAST Profile/Podcast Episode - https://doc.casthighlight.com/sequencing-my-it-future_ep1/
 
 2. Risky Function Calls, Software Resiliency, Code Insight Page - https://doc.casthighlight.com/alt_riskyfunctioncalls-avoid-using-risky-builtins/ 
